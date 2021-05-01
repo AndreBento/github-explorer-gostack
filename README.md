@@ -1,3 +1,24 @@
+## 🧪 Technologies
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [ReactJS](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://github.com/axios/axios)
+- [React Router DOM](https://reactrouter.com/)
+- [Styled Component](https://styled-components.com/)
+- [Polished](https://polished.js.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Axios](https://github.com/axios/axios)
+
+
+Definições de tipos utilizados
+
+- @types/react-router-dom
+- @types/styled-components
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
